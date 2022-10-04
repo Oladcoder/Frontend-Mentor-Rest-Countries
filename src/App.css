@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;800&display=swap');
+
+body{
+  font-family: 'Nunito', sans-serif;
+}
+.light{
+  background-color: hsl(0, 0%, 98%);
+  color: black;
+}
+
+.Navlight{
+  background-color: hsl(0, 0%, 100%);
+  color: black;
+}
+.dark{
+  background-color: hsl(207, 26%, 17%);
+  color: white;
+}
+
+.Navdark{
+  background-color: hsl(209, 23%, 22%);
+  color: white;
+}
